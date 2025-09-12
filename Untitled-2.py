@@ -81,7 +81,7 @@ elif pet == "dog":
         
         treat_action = input("Do you chase the wig or leave it? (chase/leave): ").lower()
         if treat_action == "chase":
-            print(f"{name}, you dive into the pool and emerge covered in leaves and water. Your dog barks and the neighbors come out.")
+            print(f"{name}, you dive into the pool and emerge covered in leaves and water. Your dog barks and the neighbors come out seeing your shinny bald head.")
         elif treat_action == "leave":
             print(f"{name}, you leave it. Your dog immediately uses the opportunity to start eating your homework!")
         else:
